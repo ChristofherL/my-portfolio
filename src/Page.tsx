@@ -33,7 +33,6 @@ export function Page() {
 					</ul>
 				</nav>
 			</header>
-
 			<section className="flex flex-col items-center gap-10 mb-6 lg:flex-row">
 				<img
 					className="rounded-md w-64 h-64 lg:order-2"
@@ -55,31 +54,33 @@ export function Page() {
 				</div>
 			</section>
 			<Marquee>
-				<img
-					className="w-16 h-16"
-					src="/assets/react.png"
-					alt=""
-				/>
-				<img
-					className="w-16 h-16"
-					src="/assets/next.png"
-					alt=""
-				/>
-				<img
-					className="w-16 h-16"
-					src="/assets/sass.png"
-					alt=""
-				/>
-				<img
-					className="w-16 h-16"
-					src="/assets/styled-components.png"
-					alt=""
-				/>
-				<img
-					className="w-16 h-16"
-					src="/assets/graphql.png"
-					alt=""
-				/>
+				<div className="flex gap-14">
+					<img
+						className="w-14 h-14"
+						src="/assets/react.png"
+						alt="react"
+					/>
+					<img
+						className="w-14 h-14"
+						src="/assets/next.png"
+						alt="nextjs"
+					/>
+					<img
+						className="w-14 h-14"
+						src="/assets/sass.png"
+						alt="sass"
+					/>
+					<img
+						className="w-14 h-14"
+						src="/assets/styled-components.png"
+						alt="stylede-components"
+					/>
+					<img
+						className="w-14 h-14"
+						src="/assets/graphql.png"
+						alt="graphql"
+					/>
+				</div>
 			</Marquee>
 			<section
 				className="mt-6"
