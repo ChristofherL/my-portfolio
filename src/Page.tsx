@@ -4,7 +4,7 @@ import projects from "../projects.json"
 
 export function Page() {
 	return (
-		<main className="container w-full p-5 xl:w-2/4">
+		<main className="container w-full p-5 xl:w-10/12 min-[1600px]:w-2/3">
 			<header className="mb-5">
 				<nav className="flex justify-between">
 					<FaCode size={24} />
@@ -56,27 +56,27 @@ export function Page() {
 			</section>
 			<Marquee>
 				<img
-					className="w-32 h-32"
+					className="w-16 h-16"
 					src="/assets/react.png"
 					alt=""
 				/>
 				<img
-					className="w-32 h-32"
+					className="w-16 h-16"
 					src="/assets/next.png"
 					alt=""
 				/>
 				<img
-					className="w-32 h-32"
+					className="w-16 h-16"
 					src="/assets/sass.png"
 					alt=""
 				/>
 				<img
-					className="w-32 h-32"
+					className="w-16 h-16"
 					src="/assets/styled-components.png"
 					alt=""
 				/>
 				<img
-					className="w-32 h-32"
+					className="w-16 h-16"
 					src="/assets/graphql.png"
 					alt=""
 				/>
@@ -123,7 +123,7 @@ export function Page() {
 						</li>
 					</ul>
 					<img
-						className="w-full xl:w-2/5"
+						className="w-full md:w-2/5 xl:w-2/5"
 						src="/assets/front-end-developer.png"
 						alt=""
 					/>
