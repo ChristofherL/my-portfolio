@@ -1,0 +1,26 @@
+[
+	{
+		"name": "SmartFit",
+		"description":
+			"Este projeto visa desenvolver uma solução que permita aos usuários pesquisar por unidades de uma rede de academias, filtrando-as de acordo com o período de funcionamento. A ferramenta também destacará as unidades que exigem a observância de protocolos de segurança relacionados à pandemia de COVID-19, como uso de máscara, distanciamento social e outros requisitos de saúde. A solução será simples, intuitiva e acessível, facilitando a busca por informações atualizadas e a escolha das unidades mais adequadas às preferências e necessidades dos usuários.",
+		"screenShotPath": "/assets/smartfit.png"
+	},
+	{
+		"name": "Capputeeno e-commerce",
+		"description":
+			"Capputeeno é um e-commerce especializado em produtos de estilo e praticidade, focado exclusivamente na venda de blusas e canecas. Com uma curadoria cuidadosamente selecionada, nossa loja oferece blusas de design moderno e canecas únicas, ideais para quem valoriza qualidade e estilo no dia a dia. O Capputeeno une moda e lifestyle, proporcionando uma experiência de compra simples e acessível, com produtos que refletem personalidade e conforto.",
+		"screenShotPath": "/assets/capputeeno.png"
+	},
+	{
+		"name": "Best pizza",
+		"description":
+			"Best Pizza é o site de delivery perfeito para quem busca saborear pizzas deliciosas, feitas com ingredientes frescos e de alta qualidade. Oferecemos uma variedade de sabores irresistíveis, desde clássicos tradicionais até criações exclusivas, tudo entregue com rapidez e conveniência na sua casa. Com um sistema de pedidos simples e eficiente, garantimos uma experiência de compra fácil, para que você aproveite o melhor da pizza sem complicações. Best Pizza, a escolha ideal para momentos especiais e refeições práticas!",
+		"screenShotPath": "/assets/bestpizza.png"
+	},
+	{
+		"name": "My movie list",
+		"description":
+			"MyMovieList é o destino perfeito para organizar e compartilhar suas listas de favoritos, incluindo filmes, animações, séries e programas de TV. Com uma interface amigável, você pode criar e personalizar suas listas, adicionar avaliações e descobrir novos conteúdos. Seja para acompanhar suas maratonas de séries ou revisitar suas animações favoritas, o MyMovieList oferece uma experiência completa para os apaixonados por entretenimento.",
+		"screenShotPath": "/assets/mymovielist.png"
+	}
+]
